@@ -27,8 +27,8 @@
 
 # TODO
 
-- [] GitHub Copilot 자동 코드 리뷰
-- [] 필수 Required status checks 추가
-  - [] 유닛 테스트
-  - [] 빌드 테스트
-  - [] 코드 컨벤션
+- [ ] GitHub Copilot 자동 코드 리뷰
+- [ ] 필수 Required status checks 추가
+  - [ ] 유닛 테스트
+  - [ ] 빌드 테스트
+  - [ ] 코드 컨벤션
